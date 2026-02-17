@@ -25,14 +25,14 @@ In order to use the optional opening books, keep one or more of them in the same
 
 # Console Commands
 ```
-╔═══════════════════════╦════════════════════════════════════════════════════╗
-║ Command               ║ Description                                        ║
-║  set white bot/human  ║ Toggle White between AI and User control.          ║
-║  set black bot/human  ║ Toggle Black between AI and User control.          ║
-║  set depth [1-7]      ║ Set the AI search depth (Default: 6).              ║
-║  set book [filename]  ║ Manually point to a book (set book book_pro.bin)   ║
-║  status               ║ View current engine, ELO, and book configuration.  ║
-║  help                 ║ Show all available commands.                       ║
-║  start                ║ Close configuration and launch the board.          ║
-╚═══════════════════════╩════════════════════════════════════════════════════╝
+╔═══════════════════════╦═════════════════════════════════════════════════════╗
+║ Command               ║ Description                                         ║
+║  set white bot/human  ║  Toggle White between AI and User control.          ║
+║  set black bot/human  ║  Toggle Black between AI and User control.          ║
+║  set depth [1-7]      ║  Set the AI search depth (Default: 6).              ║
+║  set book [filename]  ║  Manually point to a book (set book book_pro.bin)   ║
+║  status               ║  View current engine, ELO, and book configuration.  ║
+║  help                 ║  Show all available commands.                       ║
+║  start                ║  Close configuration and launch the board.          ║
+╚═══════════════════════╩═════════════════════════════════════════════════════╝
 ```
