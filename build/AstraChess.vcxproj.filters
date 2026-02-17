@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Chess\Board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Chess\Engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Chess\Evaluator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Assets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Chess\Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Chess\Engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Chess\Evaluator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Chess\Move.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\src\Chess\TranspositionTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\theen\Downloads\Important\Scripting\Scripts\C++\ChessBo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{70027AE5-EE1C-390F-AEF3-EED7EB4C5DAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2FE2D83B-7BBF-374A-9E75-E95F1FB301A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

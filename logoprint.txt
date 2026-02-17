@@ -1,0 +1,13 @@
+void printLogo() {
+std::cout << "╔═══════════════════════════════════════════════════════╗" << std::endl;
+std::cout << "║     ▄▄      ▄▄▄▄▄     ▄▄▄▄▄▄▄    ▄▄▄▄▄▄        ▄▄     ║" << std::endl;
+std::cout << "║   ▄█▀▀█▄   ██▀▀▀▀█▄  █▀▀██▀▀▀▀  █▀██▀▀▀█▄    ▄█▀▀█▄   ║" << std::endl;
+std::cout << "║   ██  ██   ▀██▄  ▄▀     ██        ██▄▄▄█▀    ██  ██   ║" << std::endl;
+std::cout << "║   ██▀▀██     ▀██▄▄      ██        ██▀▀█▄     ██▀▀██   ║" << std::endl;
+std::cout << "║ ▄ ██  ██   ▄   ▀██▄     ██      ▄ ██  ██   ▄ ██  ██   ║" << std::endl;
+std::cout << "║ ▀██▀  ▀█▄█ ▀██████▀     ▀██▄    ▀██▀  ▀██▀ ▀██▀  ▀█▄█ ║" << std::endl;
+std::cout << "║                                                       ║" << std::endl;
+std::cout << "╚═══════════════════════════════════════════════════════╝" << std::endl;
+std::cout << "ASTRA CHESS ENGINE - v1.0.1" << std::endl;
+std::cout << "Type 'help' for commands." << std::endl;
+}
