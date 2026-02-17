@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/cmake_install.cmake",
-		"C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/third_party/glfw/cmake_install.cmake",
-		"C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/third_party/glfw/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

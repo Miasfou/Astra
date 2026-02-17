@@ -1,6 +1,0 @@
-C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/CMakeFiles/AstraChess.dir
-C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/third_party/glfw/CMakeFiles/ALL_BUILD.dir
-C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/third_party/glfw/src/CMakeFiles/glfw.dir
-C:/Users/theen/Downloads/Important/Scripting/Scripts/C++/ChessBo/build/third_party/glfw/src/CMakeFiles/update_mappings.dir
